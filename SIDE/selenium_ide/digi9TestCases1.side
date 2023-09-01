@@ -2,7 +2,7 @@
   "id": "d16b000e-9455-4ed4-b6c5-c88c6ac190bf",
   "version": "2.0",
   "name": "digi9cases",
-  "url": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+  "url": 
   "tests": [{
     "id": "fd78fb83-09e1-4418-804e-588b6bca393c",
     "name": "MarkupProfile_Creation_NegativeTesting",
@@ -10,7 +10,7 @@
       "id": "f65fdb68-66c3-4c90-a15c-a67e18415c7e",
       "comment": "",
       "command": "open",
-      "target": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+      "target": 
       "targets": [],
       "value": ""
     }, {
@@ -206,7 +206,7 @@
       "id": "a8847c88-6f3c-4c4b-9349-7c54af5b18a7",
       "comment": "",
       "command": "open",
-      "target": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+      "target": ,
       "targets": [],
       "value": ""
     }, {
@@ -371,7 +371,7 @@
       "id": "9ae0cdac-5663-481a-a86a-3dafdcddab43",
       "comment": "",
       "command": "open",
-      "target": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+      "target": "",
       "targets": [],
       "value": ""
     }, {
@@ -481,7 +481,7 @@
       "id": "19635a67-827e-4c4f-b45e-be1459efdce5",
       "comment": "",
       "command": "open",
-      "target": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+      "target": ",
       "targets": [],
       "value": ""
     }, {
@@ -631,7 +631,7 @@
       "id": "0b2fec18-5f1a-4382-bbc8-2a1b44325939",
       "comment": "",
       "command": "open",
-      "target": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+      "target": ,
       "targets": [],
       "value": ""
     }, {
@@ -748,7 +748,7 @@
       "id": "69df03e5-2229-4d53-b20e-ad73d89e2308",
       "comment": "",
       "command": "open",
-      "target": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+      "target": ,
       "targets": [],
       "value": ""
     }, {
@@ -980,7 +980,7 @@
       "id": "753d183f-a234-4c6e-b109-316f4afeff09",
       "comment": "",
       "command": "open",
-      "target": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+      "target": 
       "targets": [],
       "value": ""
     }, {
@@ -1154,7 +1154,7 @@
       "id": "048eb689-b176-4a82-a97d-429669973f49",
       "comment": "",
       "command": "open",
-      "target": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+      "target":
       "targets": [],
       "value": ""
     }, {
@@ -1324,7 +1324,7 @@
       "id": "86666276-49bc-467b-b0fe-07aba9865214",
       "comment": "",
       "command": "open",
-      "target": "https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list",
+      "target": 
       "targets": [],
       "value": ""
     }, {
@@ -1417,6 +1417,6 @@
     "timeout": 300,
     "tests": ["fd78fb83-09e1-4418-804e-588b6bca393c", "ddf0ccf9-627d-4b39-a786-e94c1a8cd851"]
   }],
-  "urls": ["https://merchant-portal-demo.digitnine.com/service-provider/wallet/wallet-list"],
+  "urls": 
   "plugins": []
 }
